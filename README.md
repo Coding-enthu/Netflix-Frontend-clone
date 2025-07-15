@@ -18,8 +18,8 @@ A visually accurate Netflix home page clone built using pure HTML and CSS.
    git clone https://github.com/Coding-enthu/Netflix-Frontend-clone.git
 
 ## Folder Structure
-Netflix-Frontend-clone/
+<pre><code></code>Netflix-Frontend-clone/
 ├── assets/           # Images and media files
 ├── styles/           # CSS files
 ├── index.html        # Main HTML file
-└── README.md         # Project documentation
+└── README.md         # Project documentation</code></pre>
